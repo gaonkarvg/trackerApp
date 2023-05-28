@@ -1,5 +1,5 @@
-./backend/node_modules
-./backend/package-lock.json
+backend/node_modules
+backend/package-lock.json
 
-./mern-excercise-tracker/node_modules
-./mern-excercise-tracker/package_lock.json
+mern-excercise-tracker/node_modules
+mern-excercise-tracker/package-lock.json
